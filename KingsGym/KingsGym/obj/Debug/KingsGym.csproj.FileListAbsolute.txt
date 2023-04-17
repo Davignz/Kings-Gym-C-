@@ -1,0 +1,12 @@
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\bin\Debug\KingsGym.exe.config
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\bin\Debug\KingsGym.exe
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\bin\Debug\KingsGym.pdb
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.csproj.AssemblyReference.cache
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.csproj.SuggestedBindingRedirects.cache
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.Properties.Resources.resources
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.csproj.GenerateResource.cache
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.csproj.CoreCompileInputs.cache
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.exe
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.pdb
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.frmHome.resources
+C:\Users\werda\OneDrive\Área de Trabalho\KingsGym\KingsGym\KingsGym\obj\Debug\KingsGym.frmCadPlano.resources
